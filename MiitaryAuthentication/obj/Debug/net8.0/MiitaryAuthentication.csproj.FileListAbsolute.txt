@@ -1,0 +1,8 @@
+C:\Users\Danh Quao\source\repos\MiitaryAuthentication\MiitaryAuthentication\obj\Debug\net8.0\MiitaryAuthentication.csproj.AssemblyReference.cache
+C:\Users\Danh Quao\source\repos\MiitaryAuthentication\MiitaryAuthentication\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Danh Quao\source\repos\MiitaryAuthentication\MiitaryAuthentication\obj\Debug\net8.0\MiitaryAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danh Quao\source\repos\MiitaryAuthentication\MiitaryAuthentication\obj\Debug\net8.0\MiitaryAuthentication.AssemblyInfoInputs.cache
+C:\Users\Danh Quao\source\repos\MiitaryAuthentication\MiitaryAuthentication\obj\Debug\net8.0\MiitaryAuthentication.AssemblyInfo.cs
+C:\Users\Danh Quao\source\repos\MiitaryAuthentication\MiitaryAuthentication\obj\Debug\net8.0\MiitaryAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\Danh Quao\source\repos\MiitaryAuthentication\MiitaryAuthentication\obj\Debug\net8.0\MiitaryAuthentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Danh Quao\source\repos\MiitaryAuthentication\MiitaryAuthentication\obj\Debug\net8.0\MiitaryAuthentication.MvcApplicationPartsAssemblyInfo.cache

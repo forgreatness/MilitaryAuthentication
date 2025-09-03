@@ -1,0 +1,6 @@
+@MiitaryAuthentication_HostAddress = http://localhost:5124
+
+GET {{MiitaryAuthentication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
