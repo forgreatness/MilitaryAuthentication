@@ -1,38 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Danh Quao\\source\\repos\\MiitaryAuthentication\\",
+  "WorkspaceRootPath": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|c:\\users\\danh quao\\source\\repos\\miitaryauthentication\\miitaryauthentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|solutionrelative:miitaryauthentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|c:\\users\\danh quao\\source\\repos\\miitaryauthentication\\miitaryauthentication\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|solutionrelative:miitaryauthentication\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|c:\\users\\danh quao\\source\\repos\\miitaryauthentication\\miitaryauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryauthentication\\miitaryauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|solutionrelative:miitaryauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|c:\\users\\danh quao\\source\\repos\\miitaryauthentication\\miitaryauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryauthentication\\miitaryauthentication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|solutionrelative:miitaryauthentication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryauthentication\\miitaryauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|solutionrelative:miitaryauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|c:\\users\\danh quao\\source\\repos\\miitaryauthentication\\miitaryauthentication\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryauthentication\\miitaryauthentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|solutionrelative:miitaryauthentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryauthentication\\miitaryauthentication\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|solutionrelative:miitaryauthentication\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryauthentication\\miitaryauthentication\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|solutionrelative:miitaryauthentication\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryauthentication\\miitaryauthentication\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|solutionrelative:miitaryauthentication\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryauthentication\\miitaryauthentication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|solutionrelative:miitaryauthentication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryauthentication\\miitaryauthentication\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|solutionrelative:miitaryauthentication\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|c:\\users\\danh quao\\source\\repos\\miitaryauthentication\\miitaryauthentication\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryauthentication\\miitaryauthentication\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|solutionrelative:miitaryauthentication\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryauthentication\\miitaryauthentication\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|solutionrelative:miitaryauthentication\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|c:\\users\\danh quao\\source\\repos\\miitaryauthentication\\miitaryauthentication\\miitaryauthentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryauthentication\\miitaryauthentication\\miitaryauthentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|solutionrelative:miitaryauthentication\\miitaryauthentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|c:\\users\\danh quao\\source\\repos\\miitaryauthentication\\miitaryauthentication\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|solutionrelative:miitaryauthentication\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|c:\\users\\11028021\\onedrive - bd\\desktop\\my stuff\\devprojects\\.net\\militaryauthentication\\miitaryauthentication\\migrations\\20250904214437_militaryopdb-(localdb).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFE5D14-F98B-4BD0-BBE2-E7DD2D74BCB3}|MiitaryAuthentication\\MiitaryAuthentication.csproj|solutionrelative:miitaryauthentication\\migrations\\20250904214437_militaryopdb-(localdb).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,53 +62,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MiitaryAuthentication\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MiitaryAuthentication\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T21:37:53.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MiitaryAuthentication\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MiitaryAuthentication\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T21:33:27.765Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Danh Quao\\source\\repos\\MiitaryAuthentication\\MiitaryAuthentication\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "MiitaryAuthentication\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Danh Quao\\source\\repos\\MiitaryAuthentication\\MiitaryAuthentication\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "MiitaryAuthentication\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA3wDkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T05:31:29.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Danh Quao\\source\\repos\\MiitaryAuthentication\\MiitaryAuthentication\\appsettings.json",
-              "RelativeDocumentMoniker": "MiitaryAuthentication\\appsettings.json",
-              "ToolTip": "C:\\Users\\Danh Quao\\source\\repos\\MiitaryAuthentication\\MiitaryAuthentication\\appsettings.json",
-              "RelativeToolTip": "MiitaryAuthentication\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-03T05:27:21.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Danh Quao\\source\\repos\\MiitaryAuthentication\\MiitaryAuthentication\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\Program.cs",
               "RelativeDocumentMoniker": "MiitaryAuthentication\\Program.cs",
-              "ToolTip": "C:\\Users\\Danh Quao\\source\\repos\\MiitaryAuthentication\\MiitaryAuthentication\\Program.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\Program.cs",
               "RelativeToolTip": "MiitaryAuthentication\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAADgvz8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswGAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T05:24:00.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\appsettings.json",
+              "RelativeDocumentMoniker": "MiitaryAuthentication\\appsettings.json",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\appsettings.json",
+              "RelativeToolTip": "MiitaryAuthentication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-03T05:27:21.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "MiitaryAuthentication\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "MiitaryAuthentication\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:23:08.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MiitaryAuthentication\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MiitaryAuthentication\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:24:30.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MiitaryAuthentication\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MiitaryAuthentication\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwD0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T05:31:29.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Danh Quao\\source\\repos\\MiitaryAuthentication\\MiitaryAuthentication\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MiitaryAuthentication\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Danh Quao\\source\\repos\\MiitaryAuthentication\\MiitaryAuthentication\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\Data\\AppDbContext.cs",
               "RelativeToolTip": "MiitaryAuthentication\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -97,10 +172,47 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "MiitaryAuthentication\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\Models\\Login.cs",
+              "RelativeToolTip": "MiitaryAuthentication\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:02:35.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250904214437_MilitaryOpDB-(localdb).cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\Migrations\\20250904214437_MilitaryOpDB-(localdb).cs",
+              "RelativeDocumentMoniker": "MiitaryAuthentication\\Migrations\\20250904214437_MilitaryOpDB-(localdb).cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\Migrations\\20250904214437_MilitaryOpDB-(localdb).cs",
+              "RelativeToolTip": "MiitaryAuthentication\\Migrations\\20250904214437_MilitaryOpDB-(localdb).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T21:44:37.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "MiitaryAuthentication\\Models\\Register.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\Models\\Register.cs",
+              "RelativeToolTip": "MiitaryAuthentication\\Models\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:03:38.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "UserRole.cs",
-              "DocumentMoniker": "C:\\Users\\Danh Quao\\source\\repos\\MiitaryAuthentication\\MiitaryAuthentication\\Models\\UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\Models\\UserRole.cs",
               "RelativeDocumentMoniker": "MiitaryAuthentication\\Models\\UserRole.cs",
-              "ToolTip": "C:\\Users\\Danh Quao\\source\\repos\\MiitaryAuthentication\\MiitaryAuthentication\\Models\\UserRole.cs",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\Models\\UserRole.cs",
               "RelativeToolTip": "MiitaryAuthentication\\Models\\UserRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -108,36 +220,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Register.cs",
-              "DocumentMoniker": "C:\\Users\\Danh Quao\\source\\repos\\MiitaryAuthentication\\MiitaryAuthentication\\Models\\Register.cs",
-              "RelativeDocumentMoniker": "MiitaryAuthentication\\Models\\Register.cs",
-              "ToolTip": "C:\\Users\\Danh Quao\\source\\repos\\MiitaryAuthentication\\MiitaryAuthentication\\Models\\Register.cs",
-              "RelativeToolTip": "MiitaryAuthentication\\Models\\Register.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T05:03:38.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\Danh Quao\\source\\repos\\MiitaryAuthentication\\MiitaryAuthentication\\Models\\Login.cs",
-              "RelativeDocumentMoniker": "MiitaryAuthentication\\Models\\Login.cs",
-              "ToolTip": "C:\\Users\\Danh Quao\\source\\repos\\MiitaryAuthentication\\MiitaryAuthentication\\Models\\Login.cs",
-              "RelativeToolTip": "MiitaryAuthentication\\Models\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T05:02:35.328Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "MiitaryAuthentication.csproj",
-              "DocumentMoniker": "C:\\Users\\Danh Quao\\source\\repos\\MiitaryAuthentication\\MiitaryAuthentication\\MiitaryAuthentication.csproj",
+              "DocumentMoniker": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\MiitaryAuthentication.csproj",
               "RelativeDocumentMoniker": "MiitaryAuthentication\\MiitaryAuthentication.csproj",
-              "ToolTip": "C:\\Users\\Danh Quao\\source\\repos\\MiitaryAuthentication\\MiitaryAuthentication\\MiitaryAuthentication.csproj",
+              "ToolTip": "C:\\Users\\11028021\\OneDrive - BD\\Desktop\\my stuff\\DevProjects\\.net\\MilitaryAuthentication\\MiitaryAuthentication\\MiitaryAuthentication.csproj",
               "RelativeToolTip": "MiitaryAuthentication\\MiitaryAuthentication.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

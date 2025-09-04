@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiitaryAuthentication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36be65c9ec3666ce5f0f3f6207069dac7ae6ad06")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5f6a24579c5458443fae2c36aa1a34508308832")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiitaryAuthentication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiitaryAuthentication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
